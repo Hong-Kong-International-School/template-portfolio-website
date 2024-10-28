@@ -1,6 +1,6 @@
 # Template Portfolio
 
-:flags: A simplified portfolio template for beginners learning HTML and CSS, with a dash of Aussie humor!
+:flags: A simplified portfolio template for beginners learning HTML and CSS
 
 ## Features
 
