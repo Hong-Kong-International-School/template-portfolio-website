@@ -29,15 +29,19 @@ You will need the following:
 
 ## How to Use
 
-1. **Clone the Repository**: 
-   Open your terminal and run:
-   ```bash
-   git clone https://github.com/Hong-Kong-International-School/template-portfolio-website.git
-   cd template-portfolio-website
-   ```
+1. **Download the Code**: 
+   - Click on the green "Code" button and select **Download ZIP**.
+   - Extract the .zip file to your class folder (**not** your Downloads folder please!)
 
-2. **Open the Project**: 
-   Open the `index.html` file in your code editor, right-click on it, and select "Open with Live Server" to view the portfolio in your web browser. Grab a cold one while you’re at it!
+2. **Open the Project**:
+   - Open your favorite code editor. [Cursor](https://www.cursor.com/) or [Visual Studio Code](https://code.visualstudio.com/) are recommended.
+   - Go to File > Open Folder to open the **folder** you extracted to see all the code in your editor.
+   - Go back to the Finder window and double click on the `index.html` file to open your site in a web browser.
+  
+3. **Update the Page**:
+   - Look through the code for the main heading and replace *'Me'* with your name. (**Hint:** Look for the <h1> tags)
+   - Click **File > Save** (Command + S).
+   - Go back to the web browser with the index.html page displaying and **refresh the page** to see your change.
 
 ## HTML Structure
 
