@@ -39,7 +39,7 @@ You will need the following:
    - Go back to the Finder window and double click on the `index.html` file to open your site in a web browser.
   
 3. **Update the Page**:
-   - Look through the code for the main heading and replace *'Me'* with your name. (**Hint:** Look for the <h1> tags)
+   - Look through the code for the main heading and replace *'Me'* with your name. (**Hint:** Look for the `<h1>` tags)
    - Click **File > Save** (Command + S).
    - Go back to the web browser with the index.html page displaying and **refresh the page** to see your change.
 
