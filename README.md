@@ -161,4 +161,4 @@ To add a new project, copy the project template:
   <p>Your project description.</p>
 </div>
 ```
-This simplified portfolio template is designed to help beginners learn the basics of HTML and CSS while providing a clean and straightforward layout. Feel free to customize it as you learn and have a laugh along the way!
+Feel free to make any other changes you want and have a laugh along the way!
