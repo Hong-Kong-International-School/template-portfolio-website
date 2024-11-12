@@ -21,11 +21,13 @@ nav ul {
 nav a {
   color: white;
   text-decoration: none;
-  padding: 10px; /* Add padding for better hover effect */
+  padding: 10px;
+  /* Add padding for better hover effect */
 }
 
 nav a:hover {
-  background-color: darkblue; /* Change the background color to dark blue on hover */
+  background-color: darkblue;
+  /* Change the background color to dark blue on hover */
 }
 
 section {
@@ -45,5 +47,6 @@ footer {
 }
 
 .large-text {
-  font-size: 2em; /* This makes the text twice as big */
+  font-size: 2em;
+  /* This makes the text twice as big */
 }
